@@ -1,0 +1,2 @@
+This is a text file made to check git branching , 
+The name of this file is file1.
