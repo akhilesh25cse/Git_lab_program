@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 Now we will do exp5 , Date - 13/10/26
 ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQDUCVFoloiAC8LhuDKC0NYDAqAv05YL8rCcAjvGOcXLJjgbzrvAFssxAnXw7a47wqTqcM4wLGaV/ijXYds0qbX4TVHlZABgUcpSexWu08+9lS5obcmBRI2RMrS20b46+h/31Wr1S/aozaA+OlNh0mYpe3ASg6kBIVi1R4LA9nvoAZnpNqBG0nWaOPL7BGLxmSIM0IVIi1EaOpWjkt4U24KiMbdx+DCgjJX4jrYHXPC5HDUrNGdOQeHJbecdSkca/XuSHu07ngO7kFmvhwJ7VZrobPJQGPc+YjXaFAqpMbDRBlOwmrnfLP8SJbilb7PwnoLyW5EpAqyH72vUorjIvwnscLzHPfKo0/t5bHiuntzZLdBX+NPrzjP0w2cKQZ4MONRUsYQF/lXnJeKEpMKd4THQLUEfEtcglLqxLS1LdhLT2GcLvPNKhWFFpWRA1ntWwA9q7eAyiU982VxeHXhwGQZrhyQnBzpMr0f/2/uQSqRvIebuuQLxw6vWSZjcS293mmInPqxGJ2UvwEsG2iJrxFLdVTbVJLfJOcjv6OBl2FwE6y+Xev/jfh8EA4+oq/87rZGDoAaC21UoBklFKKFdAEsG3QqDGy6y2TbXZRNgH7mMi7U+d5RhL7WZw4yyVTyuJvGMxaqHWLGCDw9TZBzfpSVSK6UXbMw7R/ZQdd4ckhpu5w== akhilesh.cse25@cmrit.ac.in
 
+=======
+# Git_lab_program
+This is Akhilesh. Welcome to GitHub Lab.
+>>>>>>> 8e930c54ea8a67325322512f9a604f18318698a7
